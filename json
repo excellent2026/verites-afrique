@@ -1,0 +1,29 @@
+﻿{
+  "short_name": "VeritesAfrik",
+  "name": "Vérités d'Afrique",
+  "description": "La Case du Savoir sur l'histoire réelle de l'Afrique",
+  "icons": [
+    {
+      "src": "case.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "case.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "case.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#8B4513",
+  "background_color": "#F4F1EA",
+  "orientation": "portrait",
+  "id": "verites-afrique-case-v1"
+}
